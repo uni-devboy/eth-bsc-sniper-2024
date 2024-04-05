@@ -5,7 +5,6 @@ Antibot function checks
 Owner blacklist functions
 
 ## Installation
-
 Download the repo with
 
 ```bash
